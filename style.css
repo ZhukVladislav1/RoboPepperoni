@@ -1,0 +1,34 @@
+.carousel-item {
+    height: 90%;
+}
+
+.carousel-caption h5 {
+    color: rgb(29, 29, 29);
+}
+
+.carousel-caption p {
+    color: rgb(29, 29, 29);
+    font-weight: 900;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: flex-start;
+}
+
+.card img {
+    height: 300px;
+    width: 300px;
+    justify-self: center;
+    align-self: center;
+}
+
+.card {
+    height: 470px;
+}
+
+.drinks-card {
+    height: 400px;
+}
